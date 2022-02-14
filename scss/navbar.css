@@ -1,0 +1,22 @@
+.navbar {
+  -webkit-box-shadow: 3px 3px 8px #e4e4e4;
+          box-shadow: 3px 3px 8px #e4e4e4;
+  padding: 6px;
+}
+
+.navbar-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.navbar-links-left {
+  margin-left: 140px;
+}
+
+.navbar-list-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=navbar.css.map */
